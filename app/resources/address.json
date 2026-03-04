@@ -1,0 +1,177 @@
+[
+  {
+    "name": "John Doe",
+    "street": "123 Elm Street",
+    "city": "Springfield",
+    "latitude": 39.7817,
+    "longitude": -89.6501
+  },
+  {
+    "name": "Jane Smith",
+    "street": "456 Oak Avenue",
+    "city": "Shelbyville",
+    "latitude": 40.1234,
+    "longitude": -88.9876
+  },
+  {
+    "name": "Alice Johnson",
+    "street": "789 Maple Drive",
+    "city": "Ogdenville",
+    "latitude": 41.5678,
+    "longitude": -87.5432
+  },
+  {
+    "name": "Bob Brown",
+    "street": "101 Pine Lane",
+    "city": "North Haverbrook",
+    "latitude": 42.3456,
+    "longitude": -86.4321
+  },
+  {
+    "name": "Charlie Davis",
+    "street": "202 Birch Boulevard",
+    "city": "Capital City",
+    "latitude": 43.2345,
+    "longitude": -85.3210
+  },
+  {
+    "name": "Diana Evans",
+    "street": "303 Cedar Court",
+    "city": "Springfield",
+    "latitude": 39.7817,
+    "longitude": -89.6501
+  },
+  {
+    "name": "Eve Foster",
+    "street": "404 Walnut Way",
+    "city": "Shelbyville",
+    "latitude": 40.1234,
+    "longitude": -88.9876
+  },
+  {
+    "name": "Frank Green",
+    "street": "505 Chestnut Circle",
+    "city": "Ogdenville",
+    "latitude": 41.5678,
+    "longitude": -87.5432
+  },
+  {
+    "name": "Grace Hill",
+    "street": "606 Aspen Road",
+    "city": "North Haverbrook",
+    "latitude": 42.3456,
+    "longitude": -86.4321
+  },
+  {
+    "name": "Henry Irving",
+    "street": "707 Redwood Street",
+    "city": "Capital City",
+    "latitude": 43.2345,
+    "longitude": -85.3210
+  },
+  {
+    "name": "Ivy Jackson",
+    "street": "808 Spruce Terrace",
+    "city": "Springfield",
+    "latitude": 39.7817,
+    "longitude": -89.6501
+  },
+  {
+    "name": "Jack King",
+    "street": "909 Fir Place",
+    "city": "Shelbyville",
+    "latitude": 40.1234,
+    "longitude": -88.9876
+  },
+  {
+    "name": "Karen Lewis",
+    "street": "1010 Poplar Lane",
+    "city": "Ogdenville",
+    "latitude": 41.5678,
+    "longitude": -87.5432
+  },
+  {
+    "name": "Leo Martin",
+    "street": "1111 Cypress Drive",
+    "city": "North Haverbrook",
+    "latitude": 42.3456,
+    "longitude": -86.4321
+  },
+  {
+    "name": "Mia Nelson",
+    "street": "1212 Willow Street",
+    "city": "Capital City",
+    "latitude": 43.2345,
+    "longitude": -85.3210
+  },
+  {
+    "name": "Nina Owens",
+    "street": "1313 Magnolia Avenue",
+    "city": "Springfield",
+    "latitude": 39.7817,
+    "longitude": -89.6501
+  },
+  {
+    "name": "Oscar Perez",
+    "street": "1414 Dogwood Lane",
+    "city": "Shelbyville",
+    "latitude": 40.1234,
+    "longitude": -88.9876
+  },
+  {
+    "name": "Paul Quinn",
+    "street": "1515 Hickory Court",
+    "city": "Ogdenville",
+    "latitude": 41.5678,
+    "longitude": -87.5432
+  },
+  {
+    "name": "Quinn Roberts",
+    "street": "1616 Sycamore Circle",
+    "city": "North Haverbrook",
+    "latitude": 42.3456,
+    "longitude": -86.4321
+  },
+  {
+    "name": "Rachel Scott",
+    "street": "1717 Alder Road",
+    "city": "Capital City",
+    "latitude": 43.2345,
+    "longitude": -85.3210
+  },
+  {
+    "name": "Steve Turner",
+    "street": "1818 Beech Street",
+    "city": "Springfield",
+    "latitude": 39.7817,
+    "longitude": -89.6501
+  },
+  {
+    "name": "Tina Underwood",
+    "street": "1919 Elmwood Avenue",
+    "city": "Shelbyville",
+    "latitude": 40.1234,
+    "longitude": -88.9876
+  },
+  {
+    "name": "Uma Vance",
+    "street": "2020 Maplewood Drive",
+    "city": "Ogdenville",
+    "latitude": 41.5678,
+    "longitude": -87.5432
+  },
+  {
+    "name": "Victor White",
+    "street": "2121 Pinecrest Lane",
+    "city": "North Haverbrook",
+    "latitude": 42.3456,
+    "longitude": -86.4321
+  },
+  {
+    "name": "Wendy Xander",
+    "street": "2222 Redwood Terrace",
+    "city": "Capital City",
+    "latitude": 43.2345,
+    "longitude": -85.3210
+  }
+]

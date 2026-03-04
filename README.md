@@ -8,15 +8,42 @@ This is a FastAPI-based Address Book Service that provides RESTful APIs for mana
 
 ## Project Structure
 ```
-app/
-├── main.py               # Entry point for the application
-├── config/settings.py    # Configuration settings
-├── entity/               # Database entities
-├── dto/                  # Data Transfer Objects
-├── repository/           # Data Access Layer
-├── service/              # Business Logic Layer
-├── controller/           # API Endpoints
-├── database/             # Database setup
+eastvantage-address-book-service/
+│
+├── app/                        # Application source code
+│   ├── main.py                 # FastAPI application entry point
+│   │
+│   ├── config/                 # Application configuration
+│   │
+│   ├── controller/             # API controllers (FastAPI routers)
+│   │
+│   ├── service/                # Business logic layer
+│   │
+│   ├── repository/             # Data access layer (database operations)
+│   │
+│   ├── entity/                 # SQLAlchemy models (database entities)
+│   │
+│   ├── dto/                    # Data transfer objects (Pydantic schemas)
+│   │
+│   ├── database/               # Database configuration and session management
+│   │
+│   ├── utils/                  # Utility modules (e.g., logging)
+│   │
+│   └── resources/              # Additional resources or configurations
+│
+├── tests/                      # Unit and integration tests
+│   └── test_address_api.py
+│
+├── logs/                       # Application logs
+│   └── app.log
+│
+├── pytest.ini                  # Pytest configuration
+├── pyproject.toml              # Project dependencies and metadata (uv)
+├── uv.lock                     # Dependency lock file
+├── .gitignore                  # Git ignore rules
+├── .python-version             # Python version configuration
+├── README.md                   # Project documentation
+└── test.db                     # SQLite test database
 ```
 
 ## Requirements
@@ -57,5 +84,5 @@ Server will start at:
 ## Testing
 Run tests using pytest:
 ```bash
-pytest
+uv run pytest
 ```
